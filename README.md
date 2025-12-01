@@ -14,7 +14,7 @@ It is critical that you thoroughly check the results created by this code for yo
 
 ## Setup
 
-First, [install python 3](https://packaging.python.org/en/latest/tutorials/installing-packages/) if you haven't already.
+First, [install python 3](https://www.python.org/downloads/) if you haven't already.
 
 Next, download the files from this repository, and from a terminal navigate to that folder.
 
