@@ -52,7 +52,7 @@ will create a file `shifts.csv` which can be imported into your calendar. This w
 
 You can optionally specify additional parameters:
 
-```python3 main.py -i <PATH_TO_LINKS_PDF> -n "<NAME_AS_INITIAL_SURNAME>" -w <NUMBER_OF_WEEKS> -o <PATH_TO_OUTPUT_CSV>"```
+```python3 main.py -i <PATH_TO_LINKS_PDF> -n "<NAME_AS_INITIAL_SURNAME>" -w <NUMBER_OF_WEEKS> -o <PATH_TO_OUTPUT_CSV>```
 
 * `-w` (`--num-weeks`): Number of weeks of events to be created. If this exceeds the number of people in the table, it will continue to loop through the table in sequence
 * `-o` (`--output`): Path to output file
