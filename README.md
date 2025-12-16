@@ -25,7 +25,7 @@ Finally, install the dependencies by running `python3 -m pip install -r requirem
 
 ## How to use
 
-These are the steps you will need to follow each time you use this tool. If you haven't already completed the steps in [Setup], do that first.
+These are the steps you will need to follow each time you use this tool. If you haven't already completed the [setup steps](#setup), do that first.
 
 You will need a links document/timetable, provided by GWR as a PDF file. You'll need to get this yourself, and place it in the same folder that you downloaded the files from this repository to (i.e. inside the folder you extracted the .zip to).
 
