@@ -20,7 +20,7 @@ First, [install python 3](https://www.python.org/downloads/) if you haven't alre
 
 Next, download the files from this repository. Make sure to extract this .zip file.
 
-Finally, install the dependencies by running `python3 -m pip install -r requirements.txt` on Unix/macOS, or `py -m pip install -r requirements.txt` on Windows.
+Finally, install the dependencies by opening a terminal and running `python3 -m pip install -r requirements.txt` on Unix/macOS, or `py -m pip install -r requirements.txt` on Windows.
 
 
 ## How to use
